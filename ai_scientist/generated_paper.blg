@@ -1,25 +1,27 @@
 This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: generated_paper.aux
-The style file: ieeetr.bst
-I couldn't open database file references.bib
----line 35 of file generated_paper.aux
- : \bibdata{references
- :                    }
-I'm skipping whatever remains of this command
-I found no \citation commands---while reading file generated_paper.aux
-I found no database files---while reading file generated_paper.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+Warning--I didn't find a database entry for "haarnoja2018soft"
+Warning--I didn't find a database entry for "mnih2016asynchronous"
+Warning--I didn't find a database entry for "mnih2015human"
+Warning--I didn't find a database entry for "van2016deep"
+Warning--I didn't find a database entry for "lillicrap2016continuous"
+Warning--I didn't find a database entry for "wang2016dueling"
+Warning--I didn't find a database entry for "christiano2017deep"
+Warning--I didn't find a database entry for "hessel2018rainbow"
 You've used 0 entries,
-            1876 wiz_defined-function locations,
-            477 strings with 3490 characters,
-and the built_in function-call counts, 20 in all, are:
+            2773 wiz_defined-function locations,
+            600 strings with 4985 characters,
+and the built_in function-call counts, 33 in all, are:
 = -- 0
 > -- 0
 < -- 0
 + -- 0
 - -- 0
 * -- 2
-:= -- 9
+:= -- 10
 add.period$ -- 0
 call.type$ -- 0
 change.case$ -- 0
@@ -29,10 +31,10 @@ duplicate$ -- 0
 empty$ -- 1
 format.name$ -- 0
 if$ -- 1
-int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.chr$ -- 1
+int.to.str$ -- 1
 missing$ -- 0
-newline$ -- 3
+newline$ -- 8
 num.names$ -- 0
 pop$ -- 0
 preamble$ -- 1
@@ -49,5 +51,5 @@ type$ -- 0
 warning$ -- 0
 while$ -- 0
 width$ -- 0
-write$ -- 2
-(There were 3 error messages)
+write$ -- 7
+(There were 8 warnings)
