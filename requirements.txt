@@ -15,3 +15,5 @@ datasets
 tiktoken
 wandb
 tqdm
+scikit-learn
+pandas

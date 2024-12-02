@@ -1,0 +1,11 @@
+[
+    {
+      "Name": "personality_based_adaptation_patterns",
+      "Title": "Understanding Personality-Based Patterns in Workplace Adaptation",
+      "Experiment": "Conduct a regression analysis using one-hot-encoded personality types as predictors to explore the varying impacts of each personality type on workplace adaptation scores.",
+      "Interestingness": 9,
+      "Feasibility": 8,
+      "Novelty": 8
+    }
+  ]
+  

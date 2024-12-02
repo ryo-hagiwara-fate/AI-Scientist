@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "personality_based_adaptation_patterns",
+        "Title": "Understanding Personality-Based Patterns in Workplace Adaptation",
+        "Experiment": "Conduct a regression analysis using one-hot-encoded personality types as predictors to explore the varying impacts of each personality type on workplace adaptation scores.",
+        "Interestingness": 9,
+        "Feasibility": 8,
+        "Novelty": 8,
+        "novel": true
+    },
+    {
+        "Name": "interaction_effects_analysis",
+        "Title": "Exploring Interaction Effects Between Personality Traits and Workplace Factors on Adaptation Scores",
+        "Experiment": "Extend the current model to include theoretically relevant interaction terms between personality traits and other features such as work duration and review counts. Conduct an analysis to evaluate the significance and impact of these interaction terms on the adaptation scores. Modify the existing regression model to include these interaction terms and visualize the results through interaction plots to ensure interpretability.",
+        "Interestingness": 9,
+        "Feasibility": 7,
+        "Novelty": 9,
+        "novel": true
+    }
+]
